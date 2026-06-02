@@ -10,7 +10,7 @@
 
 ## 📌 Description du projet
 
-Le **Cassava AI Detector** est un système d’intelligence artificielle multilingue conçu pour détecter automatiquement les maladies des feuilles de manioc à partir d’une simple photo. En Afrique de l’Ouest, et particulièrement au Togo, le manioc est la culture vivrière de base de millions de familles rurales. Chaque année, des maladies comme la mosaïque du manioc (CMD) ou la bactériose (CBB) détruisent jusqu’à 90% des récoltes de certains agriculteurs, sans qu’ils aient accès à un diagnostic fiable.
+Le **CassavaGuard** est un système d’intelligence artificielle multilingue conçu pour détecter automatiquement les maladies des feuilles de manioc à partir d’une simple photo. En Afrique de l’Ouest, et particulièrement au Togo, le manioc est la culture vivrière de base de millions de familles rurales. Chaque année, des maladies comme la mosaïque du manioc (CMD) ou la bactériose (CBB) détruisent jusqu’à 90% des récoltes de certains agriculteurs, sans qu’ils aient accès à un diagnostic fiable.
 
 Ce prototype permet à un agriculteur de photographier une feuille de manioc avec son smartphone et d’obtenir **immédiatement** un diagnostic précis, accompagné de conseils de traitement — **en français, anglais, swahili, yorùbá ou haoussa, evegbe , kabyè**.
 
