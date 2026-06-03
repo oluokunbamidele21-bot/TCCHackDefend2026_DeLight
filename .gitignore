@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.h5
+*.keras
+data/
+datasets/
+*.zip
+logs/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
