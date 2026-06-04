@@ -1,6 +1,6 @@
 # 🌿🌍 CassavaGuard
 
-## 🌿Cassava AI Detector — Détecteur de Maladies du Manioc
+##🌿Cassava AI Detector — Détecteur de Maladies du Manioc
 
 > **TCC Hack & Defend 2026 — Track : AgriTech / Agriculture Intelligente**  
 > Équipe : **DeLight** | Participant : Solomon Bamidélé OLUOKUN  
