@@ -1,4 +1,4 @@
-# 🌿🌍CassavaGuard
+#🌿🌍CassavaGuard
 
 ##🌿Cassava AI Detector — Détecteur de Maladies du Manioc
 
